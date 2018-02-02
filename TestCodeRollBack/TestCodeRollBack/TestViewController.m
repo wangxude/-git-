@@ -19,12 +19,12 @@
     // Do any additional setup after loading the view.
 }
 
-/**
- 第一次的方法
- */
-- (void)theFirstMethodOne {
-    
-}
+///**
+// 第一次的方法
+// */
+//- (void)theFirstMethodOne {
+//    
+//}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
