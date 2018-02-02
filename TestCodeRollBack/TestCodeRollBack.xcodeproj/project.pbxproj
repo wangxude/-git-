@@ -13,6 +13,7 @@
 		7826085520241CCB006A21FC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7826085420241CCB006A21FC /* Assets.xcassets */; };
 		7826085820241CCB006A21FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7826085620241CCB006A21FC /* LaunchScreen.storyboard */; };
 		7826085B20241CCB006A21FC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7826085A20241CCB006A21FC /* main.m */; };
+		7826086320241EF1006A21FC /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7826086220241EF1006A21FC /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		7826085720241CCB006A21FC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7826085920241CCB006A21FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7826085A20241CCB006A21FC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		7826086120241EF1006A21FC /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		7826086220241EF1006A21FC /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				7826084C20241CCB006A21FC /* AppDelegate.m */,
 				7826084E20241CCB006A21FC /* ViewController.h */,
 				7826084F20241CCB006A21FC /* ViewController.m */,
+				7826086120241EF1006A21FC /* TestViewController.h */,
+				7826086220241EF1006A21FC /* TestViewController.m */,
 				7826085120241CCB006A21FC /* Main.storyboard */,
 				7826085420241CCB006A21FC /* Assets.xcassets */,
 				7826085620241CCB006A21FC /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 			files = (
 				7826085020241CCB006A21FC /* ViewController.m in Sources */,
 				7826085B20241CCB006A21FC /* main.m in Sources */,
+				7826086320241EF1006A21FC /* TestViewController.m in Sources */,
 				7826084D20241CCB006A21FC /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

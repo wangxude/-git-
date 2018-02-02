@@ -29,7 +29,14 @@
 /**
  第二次的方法
  */
-- (void)theFirstMethod {
+- (void)theSecondMethod {
+    
+}
+
+/**
+ 第二次的方法
+ */
+- (void)theThridMethod {
     
 }
 
