@@ -26,6 +26,13 @@
     
 }
 
+/**
+ 第二次的方法
+ */
+- (void)theFirstMethod {
+    
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
