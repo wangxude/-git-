@@ -19,6 +19,12 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
+/**
+ 第一次的方法
+ */
+- (void)theFirstMethod {
+    
+}
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
