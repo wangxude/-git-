@@ -37,12 +37,9 @@ libksylivedep/
 ffmpeg/
 gas-preprocessor/
 
-TestCodeRollBack.xcworkspace  
+project.xcworkspace  
 xcuserdata 
 UserInterfaceState.xcuserstate  
-TestCodeRollBack.xcworkspace/  
+project.xcworkspace/  
 xcuserdata/  
 UserInterface.xcuserstate
-
-
-
