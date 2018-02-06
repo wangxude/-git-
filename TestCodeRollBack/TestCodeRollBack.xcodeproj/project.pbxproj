@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		78135A242029447200E0AC20 /* testOneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 78135A232029447200E0AC20 /* testOneViewController.m */; };
 		7826084D20241CCB006A21FC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7826084C20241CCB006A21FC /* AppDelegate.m */; };
 		7826085020241CCB006A21FC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7826084F20241CCB006A21FC /* ViewController.m */; };
 		7826085320241CCB006A21FC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7826085120241CCB006A21FC /* Main.storyboard */; };
@@ -18,6 +19,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		78135A222029447200E0AC20 /* testOneViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testOneViewController.h; sourceTree = "<group>"; };
+		78135A232029447200E0AC20 /* testOneViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testOneViewController.m; sourceTree = "<group>"; };
 		7826084820241CCB006A21FC /* TestCodeRollBack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestCodeRollBack.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7826084B20241CCB006A21FC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		7826084C20241CCB006A21FC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -72,6 +75,8 @@
 				7826086220241EF1006A21FC /* TestViewController.m */,
 				7826086420244547006A21FC /* wqViewController.h */,
 				7826086520244547006A21FC /* wqViewController.m */,
+				78135A222029447200E0AC20 /* testOneViewController.h */,
+				78135A232029447200E0AC20 /* testOneViewController.m */,
 				7826085120241CCB006A21FC /* Main.storyboard */,
 				7826085420241CCB006A21FC /* Assets.xcassets */,
 				7826085620241CCB006A21FC /* LaunchScreen.storyboard */,
@@ -153,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7826085020241CCB006A21FC /* ViewController.m in Sources */,
+				78135A242029447200E0AC20 /* testOneViewController.m in Sources */,
 				7826085B20241CCB006A21FC /* main.m in Sources */,
 				7826086320241EF1006A21FC /* TestViewController.m in Sources */,
 				7826084D20241CCB006A21FC /* AppDelegate.m in Sources */,
