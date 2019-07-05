@@ -23,7 +23,7 @@
  第一次的方法
  */
 - (void)theFirstMethod {
-    
+    self.view.backgroundColor = [UIColor redColor];
 }
 
 /**
