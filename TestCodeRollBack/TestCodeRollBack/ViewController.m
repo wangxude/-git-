@@ -24,7 +24,7 @@
  */
 - (void)theFirstMethod {
     self.view.backgroundColor = [UIColor redColor];
-    
+    self.view.backgroundColor = [UIColor whiteColor];
 }
 
 /**
